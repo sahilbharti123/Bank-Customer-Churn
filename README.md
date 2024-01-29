@@ -1,4 +1,4 @@
-**# Customer Churn Prediction App **
+# Customer Churn Prediction App
 
 Imagine predicting whether a customer will churn before they even decide to leave. This project, a customer churn prediction app, leverages machine learning and web development to turn that possibility into reality.
 
