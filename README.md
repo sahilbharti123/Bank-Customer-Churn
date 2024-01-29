@@ -38,7 +38,10 @@ The app can be readily extended to incorporate additional features like churn ri
 ## Key Skills Demonstrated:
 
 Machine Learning proficiency: Model selection, training, evaluation, and interpretation.
+
 Data analysis and manipulation: Feature engineering, data pre-processing, and visualization.
+
 Web development expertise: Building and deploying interactive web applications with Streamlit.
+
 Problem-solving and critical thinking: Identifying and addressing technical challenges during development.
-This project not only showcases my technical skills but also highlights my ability to apply them to solve real-world business problems. I am passionate about leveraging machine learning for impactful solutions and strive to contribute my expertise to innovative projects.
+
